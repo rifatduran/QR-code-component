@@ -4,7 +4,7 @@ html {
     w-full
 }
 
-.aa {
+.container {
     @apply
     flex
     flex-col
