@@ -3,7 +3,7 @@ import './QR.css';
 
 function QR() {
   return (
-    <div className='aa' class="container">
+    <div className='container' class="container">
       <div className='square'>
         <a href="https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H">
           <img src={require('../images/image-qr-code.png')} />
